@@ -1,2 +1,2 @@
 # distributions
-A repo for practical understanding of various probability distributions
+A repo for intuitive visual understanding of probability distributions.
